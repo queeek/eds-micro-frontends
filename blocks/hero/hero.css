@@ -85,3 +85,14 @@
     }
   }
 }
+
+.hero.box {
+    .hero-foreground {
+        div {
+            background-color: white;
+            color: var(--color-dark);
+            padding: 20px;
+            width: 400px;
+        }
+    }
+}
